@@ -1,0 +1,12 @@
+C:\Users\AGANG\source\repos\自律神器\自律神器\bin\Debug\自律神器.exe.config
+C:\Users\AGANG\source\repos\自律神器\自律神器\bin\Debug\自律神器.exe
+C:\Users\AGANG\source\repos\自律神器\自律神器\bin\Debug\自律神器.pdb
+C:\Users\AGANG\source\repos\自律神器\自律神器\bin\Debug\自律神器.xml
+C:\Users\AGANG\source\repos\自律神器\自律神器\obj\Debug\自律神器.vbproj.AssemblyReference.cache
+C:\Users\AGANG\source\repos\自律神器\自律神器\obj\Debug\自律神器.Form1.resources
+C:\Users\AGANG\source\repos\自律神器\自律神器\obj\Debug\自律神器.Resources.resources
+C:\Users\AGANG\source\repos\自律神器\自律神器\obj\Debug\自律神器.vbproj.GenerateResource.cache
+C:\Users\AGANG\source\repos\自律神器\自律神器\obj\Debug\自律神器.vbproj.CoreCompileInputs.cache
+C:\Users\AGANG\source\repos\自律神器\自律神器\obj\Debug\自律神器.exe
+C:\Users\AGANG\source\repos\自律神器\自律神器\obj\Debug\自律神器.xml
+C:\Users\AGANG\source\repos\自律神器\自律神器\obj\Debug\自律神器.pdb
